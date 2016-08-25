@@ -50,6 +50,7 @@ I can't think of any...
 == Changelog ==
 HEAD
 * Rename `query-monitor-bbs-conds.php` -> `query-monitor-bbpress-buddypress-conditionals.php`
+* Add PHPUnit scaffold framework via wp-cli
 
 1.0.0
 * Initial Release
