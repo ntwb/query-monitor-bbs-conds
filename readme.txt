@@ -48,4 +48,8 @@ I can't think of any...
 1. A list of the bbPress & BuddyPress Conditionals in Query Monitor
 
 == Changelog ==
-Initial Commit
+HEAD
+* Rename `query-monitor-bbs-conds.php` -> `query-monitor-bbpress-buddypress-conditionals.php`
+
+1.0.0
+* Initial Release
